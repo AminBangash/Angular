@@ -1,2 +1,2 @@
 # Angular
-It provides basic functionality of navigation
+It provides basic functionality of angular navigation.
